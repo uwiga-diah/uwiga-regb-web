@@ -17,6 +17,7 @@ public class Tesgitjava {
         
         // TODO code application logic here
         system.out println {"tulisan pertama"}; 
+         system.out println {"lanjutkan"}; 
     }
     
 }
